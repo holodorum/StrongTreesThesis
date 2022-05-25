@@ -1,0 +1,46 @@
+#########node  1
+Feat_4.3
+#########node  2
+Feat_0.3
+#########node  3
+Feat_1.2
+#########node  4
+Feat_4.1
+#########node  5
+Feat_1.2
+#########node  6
+Feat_0.2
+#########node  7
+Feat_0.2
+#########node  8
+leaf 0
+#########node  9
+leaf 1
+#########node  10
+leaf 1
+#########node  11
+leaf 0
+#########node  12
+leaf 1
+#########node  13
+leaf 0
+#########node  14
+leaf 0
+#########node  15
+leaf 1
+
+
+Total Solving Time 88.8412733078003
+obj value 654.5
+Total Callback counter (Integer) 0
+Total Successful Callback counter (Integer) 0
+Total Callback Time (Integer) 0
+Total Successful Callback Time (Integer) 0
+obj value 654.5
+train acc 0.8279569892473119
+test acc 0.7096774193548387
+calibration acc 0.7741935483870968
+3 1
+Set parameter Threads to value 1
+Set parameter TimeLimit to value 600
+Set parameter MIPGap to value 0.001

@@ -1,0 +1,138 @@
+#########node  1
+Feat0.1
+#########node  2
+Feat0.1
+#########node  3
+Feat0.2
+#########node  4
+Feat0.1
+#########node  5
+pruned
+#########node  6
+Feat0.3
+#########node  7
+pruned
+#########node  8
+Feat0.1
+#########node  9
+pruned
+#########node  10
+pruned
+#########node  11
+pruned
+#########node  12
+Feat0.3
+#########node  13
+pruned
+#########node  14
+pruned
+#########node  15
+pruned
+#########node  16
+Feat0.1
+#########node  17
+pruned
+#########node  18
+pruned
+#########node  19
+pruned
+#########node  20
+pruned
+#########node  21
+pruned
+#########node  22
+pruned
+#########node  23
+pruned
+#########node  24
+Feat0.2
+#########node  25
+pruned
+#########node  26
+pruned
+#########node  27
+pruned
+#########node  28
+pruned
+#########node  29
+pruned
+#########node  30
+pruned
+#########node  31
+pruned
+#########node  32
+leaf 0
+#########node  33
+leaf None
+#########node  34
+leaf None
+#########node  35
+leaf None
+#########node  36
+leaf None
+#########node  37
+leaf None
+#########node  38
+leaf None
+#########node  39
+leaf None
+#########node  40
+leaf None
+#########node  41
+leaf None
+#########node  42
+leaf None
+#########node  43
+leaf None
+#########node  44
+leaf None
+#########node  45
+leaf None
+#########node  46
+leaf None
+#########node  47
+leaf None
+#########node  48
+leaf 0
+#########node  49
+leaf None
+#########node  50
+leaf None
+#########node  51
+leaf None
+#########node  52
+leaf None
+#########node  53
+leaf None
+#########node  54
+leaf None
+#########node  55
+leaf None
+#########node  56
+leaf None
+#########node  57
+leaf None
+#########node  58
+leaf None
+#########node  59
+leaf None
+#########node  60
+leaf None
+#########node  61
+leaf None
+#########node  62
+leaf None
+#########node  63
+leaf None
+
+
+Total Solving Time 627.2457354068756
+obj value 36969.30000000002
+Total Callback counter (Integer) 0
+Total Successful Callback counter (Integer) 0
+Total Callback Time (Integer) 0
+Total Successful Callback Time (Integer) 0
+obj value 36969.30000000002
+train acc 0.6959876543209876
+test acc 0.7129629629629629
+calibration acc 0.6822429906542056

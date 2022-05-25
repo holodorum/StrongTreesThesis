@@ -1,0 +1,139 @@
+#########node  1
+Feat_4.2
+#########node  2
+Feat_0.2
+#########node  3
+Feat_4.1
+#########node  4
+Feat_0.3
+#########node  5
+Feat_4.1
+#########node  6
+Feat_0.1
+#########node  7
+pruned
+#########node  8
+Feat_1.1
+#########node  9
+Feat_1.2
+#########node  10
+Feat_0.3
+#########node  11
+Feat_3.3
+#########node  12
+Feat_0.2
+#########node  13
+Feat_0.3
+#########node  14
+pruned
+#########node  15
+pruned
+#########node  16
+Feat_4.1
+#########node  17
+Feat_0.2
+#########node  18
+Feat_0.2
+#########node  19
+Feat_4.1
+#########node  20
+Feat_1.2
+#########node  21
+pruned
+#########node  22
+Feat_1.3
+#########node  23
+pruned
+#########node  24
+Feat_1.3
+#########node  25
+Feat_1.2
+#########node  26
+Feat_1.1
+#########node  27
+pruned
+#########node  28
+pruned
+#########node  29
+pruned
+#########node  30
+pruned
+#########node  31
+pruned
+#########node  32
+leaf 0
+#########node  33
+leaf 1
+#########node  34
+leaf 1
+#########node  35
+leaf 0
+#########node  36
+leaf 1
+#########node  37
+leaf None
+#########node  38
+leaf 0
+#########node  39
+leaf 1
+#########node  40
+leaf 0
+#########node  41
+leaf 1
+#########node  42
+leaf 1
+#########node  43
+leaf 1
+#########node  44
+leaf 1
+#########node  45
+leaf 1
+#########node  46
+leaf 0
+#########node  47
+leaf None
+#########node  48
+leaf 0
+#########node  49
+leaf 1
+#########node  50
+leaf 0
+#########node  51
+leaf 1
+#########node  52
+leaf 0
+#########node  53
+leaf 1
+#########node  54
+leaf None
+#########node  55
+leaf None
+#########node  56
+leaf None
+#########node  57
+leaf None
+#########node  58
+leaf None
+#########node  59
+leaf None
+#########node  60
+leaf None
+#########node  61
+leaf None
+#########node  62
+leaf None
+#########node  63
+leaf None
+
+
+Total Solving Time 327.4810109138489
+obj value 2675.399999999999
+Total Callback counter (Integer) 0
+Total Successful Callback counter (Integer) 0
+Total Callback Time (Integer) 0
+Total Successful Callback Time (Integer) 0
+obj value 2675.399999999999
+train acc 0.989247311827957
+test acc 0.9032258064516129
+calibration acc 0.967741935483871
+2 1

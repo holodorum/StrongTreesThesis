@@ -1,0 +1,5 @@
+from experiment_synthetic_dataset import run_synthetic_experiment
+from experiment_time import run_time_experiment
+
+run_synthetic_experiment()
+run_time_experiment()

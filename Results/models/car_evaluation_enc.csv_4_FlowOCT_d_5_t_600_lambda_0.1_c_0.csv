@@ -1,0 +1,2 @@
+"approach","dataset","nrow","depth","lambda","time_limit","status","obj_value","train_acc","gap","node_count","solving_time","cb_time_int","cb_time_int_suc","cb_counter_int","cb_counter_int_suc","test_acc","calib_acc","sample"
+"FlowOCT","car_evaluation_enc.csv",1296,5,0.1,600,9,-354.5999999999949,0.6959876543209876,3947.2081218266467,1.0,620.7404899597168,0,0,0,0,0.7129629629629629,0.6822429906542056,4

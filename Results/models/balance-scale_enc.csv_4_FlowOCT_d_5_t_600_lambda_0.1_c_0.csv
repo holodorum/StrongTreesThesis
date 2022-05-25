@@ -1,0 +1,2 @@
+"approach","dataset","nrow","depth","lambda","time_limit","status","obj_value","train_acc","gap","node_count","solving_time","cb_time_int","cb_time_int_suc","cb_counter_int","cb_counter_int_suc","test_acc","calib_acc","sample"
+"FlowOCT","balance-scale_enc.csv",468,5,0.1,600,9,-84.79999999999728,0.8034188034188035,99.51804757998723,281.0,616.0692677497864,0,0,0,0,0.7515923566878981,0.8064516129032258,4
